@@ -1,4 +1,4 @@
-package academy.learnprogramming.sumThreeAndVifeChallenge;
+package academy.learnprogramming.sumThreeAndFiveChallenge;
 
 public class Main {
     public static void main(String[] args) {
